@@ -1,5 +1,5 @@
 <?php
 
-require_once 'alunoController'
+require_once 'alunosController.php'
 
 ?>

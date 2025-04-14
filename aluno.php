@@ -10,6 +10,8 @@ class Aluno
         ["nome" => "João", "idade" => 18],
         ["nome" => "Maria", "idade" => 20],
         ["nome" => "Pedro", "idade" => 22],
+        ["nome" => "Xandão", "idade" => 19],
+        ["nome" => "Pedro", "idade" => 23],
     ];
     // Define um método publico chamado ListarAlunos.
     // Esse método serve  para "retornar" o conteudo do array $alunos.
